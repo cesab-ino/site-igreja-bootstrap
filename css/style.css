@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    padding: 5px;
+        img{
+        width: 45px;
+        height: 45px;
+        text-align: justify;
+        margin-left: 8px;
+    }
+    background-color: #95daf5fa;
+    header{
+        
+        img{
+            border-radius: 30px;
+            margin-right: 20px;
+            nav{
+                div{
+                    width: 10px;
+                    height: 10px;
+                }
+            }
+        }
+    }
+            
+    .bungee-regular {
+  font-family: "Bungee", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+    button{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-block: initial;
+    }
+       section{
+        h3{
+            padding: 20px;
+        }
+        h4{
+            padding: 40px;
+            text-align: justify;
+           span{
+            font-size: 50px;
+            color: #06bd9e;
+        } 
+        }
+        background-color: #030354;
+        color: #e1e1e7;
+        img{
+            width: 150px;
+            height: 100px;
+            border-radius: 5px;
+            border-color: #bebec4;
+           border-style: outset;
+        }
+        
+        padding: 40px;
+        h1 {
+        span{
+            font-size: 100px;
+            color: #06bd9e;
+            height: 20px;
+                     
+           }
+           }
+                h2{
+                  span{
+            font-size: 100px;
+            color: #06bd9e;  
+                }
+                
+            }
+        form{
+            padding: 40px;
+            }
+        p{
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 50px;
+        }
+        a:hover{
+            color: rgb(107, 57, 3);
+        }
+    }
+        footer{
+        text-align: center;
+        color: #030354;
+        margin-bottom: 30px;
+        background-color: #06bd9e;
+    }
+        footer:hover{
+            color: rgb(107, 57, 3);
+        }
+}
